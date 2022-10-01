@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 4 REST", "Assignment 4 REST.csproj", "{357C9636-EFDB-4902-AE4D-A7D713788D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 4 RESTTests", "..\Assignment 4 RESTTests\Assignment 4 RESTTests.csproj", "{B8DE954F-6371-497C-BA45-D2BBDF9E2CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357C9636-EFDB-4902-AE4D-A7D713788D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357C9636-EFDB-4902-AE4D-A7D713788D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357C9636-EFDB-4902-AE4D-A7D713788D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357C9636-EFDB-4902-AE4D-A7D713788D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DE954F-6371-497C-BA45-D2BBDF9E2CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DE954F-6371-497C-BA45-D2BBDF9E2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DE954F-6371-497C-BA45-D2BBDF9E2CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DE954F-6371-497C-BA45-D2BBDF9E2CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012B1053-2839-4078-BA34-FE3F9260BDB0}
+	EndGlobalSection
+EndGlobal
